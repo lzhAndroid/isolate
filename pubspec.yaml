@@ -1,6 +1,7 @@
 name: isolate
 version: 2.0.3
 author: Dart Team <misc@dartlang.org>
+publish_to: none
 description: >-
   Utility functions and classes related to the 'dart:isolate' library.
 homepage: https://github.com/dart-lang/isolate
